@@ -1,0 +1,72 @@
+3	Ariel was playing basketball. 1 of her shots went in the hoop. 2 of her shots did not go in the hoop. How many shots were there in total?
+13	Adrianna has 10 pieces of gum to share with her friends. There wasn't enough gum for all her friends, so she went to the store to get 3 more pieces of gum. How many pieces of gum does Adrianna have now?
+90	Adrianna has 10 pieces of gum to share with her friends. There wasn't enough gum for all her friends, so she went to the store and got 70 pieces of strawberry gum and 10 pieces of bubble gum. How many pieces of gum does Adrianna have now?
+195	The restaurant has 175 normal chairs and 20 chairs for babies. How many chairs does the restaurant have in total?
+590	How many cookies did you sell if you sold 320 chocolate cookies and 270 vanilla cookies?
+26074	The hobby store normally sells 10,576 trading cards per month. In June, the hobby store sold 15,498 more trading cards than normal. In total, how many trading cards did the hobby store sell in June?
+5	Billy had 2 books at home. He went to the library to take out 2 more books. He then bought 1 book. How many books does Billy have now?
+296	Ashley bought a big bag of candy. The bag had 102 blue candies, 100 red candies and 94 green candies. How many candies were there in total?
+2	There were 3 pizzas in total at the pizza shop. A customer bought 1 pizza. How many pizzas are left?
+1	Your friend said she had 11 stickers. When you helped her clean her desk, she only had a total of 10 stickers. How many stickers are missing?
+80	Adrianna has 100 pieces of gum to share with her friends. When she went to the park, she shared 10 pieces of strawberry gum. When she left the park, Adrianna shared another 10 pieces of bubble gum. How many pieces of gum does Adrianna have now?
+56	Your team scored a total of 123 points. 67 points were scored in the first half. How many were scored in the second half?
+752	Nathan has a big ant farm. He decided to sell some of his ants. He started with 965 ants. He sold 213. How many ants does he have now?
+10201	The hobby store normally sells 10,576 trading cards per month. In July, the hobby store sold a total of 20,777 trading cards. How many more trading cards did the hobby store sell in July compared with a normal month?
+26	Charlene had a pack of 35 pencil crayons. She gave 6 to her friend Theresa. She gave 3 to her friend Mandy. How many pencil crayons does Charlene have left?
+105	Ashley bought a big bag of candy to share with her friends. In total, there were 296 candies. She gave 105 candies to Marissa. She also gave 86 candies to Kayla. How many candies were left?
+18	Adrianna needs to cut a pan of brownies into pieces. She cuts 6 even columns and 3 even rows into the pan. How many brownies does she have?
+500	A movie theatre has 25 rows of seats with 20 seats in each row. How many seats are there in total?
+240000	A clothing company has 4 different kinds of sweatshirts. Each year, the company makes 60,000 of each kind of sweatshirt. How many sweatshirts does the company make each year?
+26	A bricklayer stacks bricks in 2 rows, with 10 bricks in each row. On top of each row, there is a stack of 6 bricks. How many bricks are there in total?
+480	Cayley earns $5 an hour by delivering newspapers. She delivers newspapers 3 days each week, for 4 hours at a time. After delivering newspapers for 8 weeks, how much money will Cayley earn?
+2	If you have 4 pieces of candy split evenly into 2 bags, how many pieces of candy are in each bag?
+16	If you have 80 tickets for the fair and each ride costs 5 tickets, how many rides can you go on?
+400	The school has $20,000 to buy new computer equipment. If each piece of equipment costs $50, how many pieces can the school buy in total?
+6	Melissa buys 2 packs of tennis balls for $12 in total. All together, there are 6 tennis balls. How much does 1 pack of tennis balls cost?
+2	Melissa buys 2 packs of tennis balls for $12 in total. All together, there are 6 tennis balls. How much does 1 tennis ball cost?
+2	An Italian restaurant receives a shipment of 86 veal cutlets. If it takes 3 cutlets to make a dish, how many cutlets will the restaurant have left over after making as many dishes as possible?
+168	There are 235 books in a library. On Monday, 123 books are taken out. On Tuesday, 56 books are brought back. How many books are there now?
+5	There is a group of 10 people who are ordering pizza. If each person gets 2 slices and each pizza has 4 slices, how many pizzas should they order?
+2	Lana has 2 bags with 2 marbles in each bag. Markus has 2 bags with 3 marbles in each bag. How many more marbles does Markus have?
+2	Lana has 3 bags with the same amount of marbles in them, totaling 12 marbles. Markus has 3 bags with the same amount of marbles in them, totaling 18 marbles. How many more marbles does Markus have in each bag?
+4	There are 2 chalkboards in your classroom. If each chalkboard needs 2 pieces of chalk, how many pieces do you need in total?
+3	There are 3 chalkboards in your classroom. Each chalkboard has 2 pieces of chalk. This means there are 6 pieces of chalk in total. If you take 1 piece of chalk away from each chalkboard, how many will there be in total?
+70	What number is 6 tens and 10 ones?
+72	I have a 7 in the tens place. I have an even number in the ones place. I am lower than 74. What number am I?
+3.9	You have 2.6 grams of yogurt in your bowl and you add another spoonful of 1.3 grams. How much yogurt do you have in total?
+10.25	Gemma had 25.75 grams of frosting to make a cake. She decided to use only 15.5 grams of the frosting. How much frosting does Gemma have left?
+3.6	Marshall walks a total of 0.9 kilometres to and from school each day. After 4 days, how many kilometres will he have walked?
+0.25	To make the Leaning Tower of Pisa from spaghetti, Mrs. Robinson bought 2.5 kilograms of spaghetti. Her students were able to make 10 leaning towers in total. How many kilograms of spaghetti does it take to make 1 leaning tower?
+1.98	Rocco has 1.5 litres of orange soda and 2.25 litres of grape soda in his fridge. Antonio has 1.15 litres of orange soda and 0.62 litres of grape soda. How much more soda does Rocco have than Angelo?
+3	Erik has 0 stickers. Every day he gets 1 more sticker. How many days until he gets 3 stickers?
+72	Each month, Jeremy adds the same number of cards to his baseball card collection. In January, he had 36. 48 in February. 60 in March. How many baseball cards will Jeremy have in April?
+65	Thomas and Matthew are saving up money to buy a video game together. Thomas has saved $30. Matthew has saved $35. How much money have they saved up together in total?
+13	Thomas has $80 saved up. He uses his money to buy a video game. The video game costs $67. How much money does he have left?
+15	Tim gets $5 for delivering the paper. How much money will he have after delivering the paper 3 times?
+61.53	Robert spent $184.59 to buy 3 hockey sticks. If each hockey stick was the same price, how much did 1 cost?
+1.75	You went to the store and bought gum for $1.25 and a sucker for $0.50. How much was your total?
+2.60	You went to the store with $5.50. You bought gum for $1.25, a chocolate bar for $1.15 and a sucker for $0.50. How much money do you have left?
+60	Jeremy helped his mom for 1 hour. For how many minutes was he helping her?
+187.50	Jakob wants to invite 20 friends to his birthday, which will cost his parents $250. If he decides to invite 15 friends instead, how much money will it cost his parents? Assume the relationship is directly proportional.
+20	Retta put $100.00 in a bank account that gains 20% interest annually. How much interest will be accumulated in 1 year?
+120	Retta put $100.00 in a bank account that gains 20% interest annually. If she makes no withdrawals, how much money will be in the account after 1 year?
+2	If a train departs at 2:00 p.m. and arrives at 4:00 p.m., how many hours were passengers on the train for?
+8	Cassandra's ruler is 22 centimetres long. April's ruler is 30 centimetres long. How many centimetres longer is April's ruler?
+190	Micha's dad wants to try to save money on gas, so he has been tracking how much he uses. Last year, Micha's dad used 100 litres of gas. This year, her dad used 90 litres of gas. How much gas did he use in total for the two years?
+100	Micha's dad wants to try to save money on gas, so he has been tracking how much he uses. Over the past two years, Micha's dad used 200 litres of gas. This year, he used 100 litres of gas. How much gas did he use last year?
+6	Kiera wants to make sure she has strong bones, so she drinks 2 litres of milk every week. After 3 weeks, how many litres of milk will Kiera drink?
+1.5	Inger goes to the grocery store and buys 3 squashes that each weigh 500 grams. How many kilograms of squash did Inger buy?
+10	Shad has a lemonade stand and sold 20 cups of lemonade. Each cup was 500 millilitres. How many litres did Shad sell in total?
+160	Stacy and Milda are comparing their heights. Stacy is 1.5 meters tall. Milda is 10 centimetres taller than Stacy. What is Milda's height in centimetres?
+16	The ratio of Jenny's trophies to Meredith's trophies is 7:4. Jenny has 28 trophies. How many does Meredith have?
+10.25	For 4 weeks, William volunteered as a helper for swimming classes. The first week, he volunteered for 8 hours. He volunteered for 12 hours in the second week, and another 12 hours in the third week. The fourth week, he volunteered for 9 hours. For how many hours did he volunteer per week, on average?
+2	The faces on a fair number die are labelled 1, 2, 3, 4, 5 and 6. You roll the die 12 times. How many times should you expect to roll a 1?
+18	The theatre has 4 chairs in a row. There are 5 rows. Using rows as your unit of measurement, what is the perimeter?
+20	The theatre has 4 chairs in a row. There are 5 rows. How many chairs are there in total?
+32	Mitchell wrote his homework questions on a piece of square paper. Each side of the paper is 8 centimetres. What is the perimeter in centimeters?
+54	A single trading card is 9 centimetres long by 6 centimetres wide. What is its area in centimeters squared?
+7	. Finding the Perimeter of Triangles: Luigi built a tent in the shape of an equilateral triangle. The perimeter is 21 metres. What is the length of each of the tent's sides in meters?
+3	What is the area of a triangle with a base of 2 units and a height of 3 units in units squared?
+4	A right triangle has one non-hypotenuse side length of 3 inches and the hypotenuse measures 5 inches. What is the length of the other non-hypotenuse side in inches?
+1	Skylar lives on a farm, where his dad keeps a circular corn maze. The corn maze has a diameter of 2 kilometres. What is the maze's radius in kilometers?
+72	This equation shows how the amount Lucas earns from his after-school job depends on how many hours he works:e = 12h. The variable h represents how many hours he works. The variable e represents how much money he earns. How much money will Lucas earn after working for 6 hours?
