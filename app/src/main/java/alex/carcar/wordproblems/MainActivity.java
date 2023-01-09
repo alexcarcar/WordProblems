@@ -1,12 +1,11 @@
 package alex.carcar.wordproblems;
 
+import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.text.Editable;
-import android.text.InputType;
 import android.text.TextWatcher;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -27,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     Random random;
     LinearLayout linearLayout;
     int[] backgroundImages;
-    int[] squareColors;
+    String[] squareColors;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         iconHeader = findViewById(R.id.iconHeader);
         random = new Random();
         backgroundImages = new int[]{R.drawable.bg_001, R.drawable.bg_002, R.drawable.bg_003, R.drawable.bg_004, R.drawable.bg_005, R.drawable.bg_005, R.drawable.bg_007, R.drawable.bg_006, R.drawable.bg_009, R.drawable.bg_010};
-        squareColors = new int[]{R.color.square1, R.color.square2, R.color.square3, R.color.square4};
+        squareColors = new String[]{"#ff0000", "#00ff00", "#0000ff", "#ffff00", "#00ffff", "#ff00ff"};
         readQuestions();
         createQuestion();
         answer.addTextChangedListener(new TextWatcher() {
@@ -94,9 +93,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void changeBackground() {
         int image = backgroundImages[random.nextInt(backgroundImages.length)];
-        int color = squareColors[random.nextInt(squareColors.length)];
+        String color = squareColors[random.nextInt(squareColors.length)];
         Drawable resource = getResources().getDrawable(image);
         linearLayout.setBackground(resource);
-        iconHeader.setBackgroundColor(color);
+        iconHeader.setBackgroundColor(Color.parseColor(color));
     }
 }
