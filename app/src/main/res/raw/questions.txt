@@ -65,7 +65,7 @@
 20	The theatre has 4 chairs in a row. There are 5 rows. How many chairs are there in total?
 32	Mitchell wrote his homework questions on a piece of square paper. Each side of the paper is 8 centimetres. What is the perimeter in centimeters?
 54	A single trading card is 9 centimetres long by 6 centimetres wide. What is its area in centimeters squared?
-7	. Finding the Perimeter of Triangles: Luigi built a tent in the shape of an equilateral triangle. The perimeter is 21 metres. What is the length of each of the tent's sides in meters?
+7	Luigi built a tent in the shape of an equilateral triangle. The perimeter is 21 metres. What is the length of each of the tent's sides in meters?
 3	What is the area of a triangle with a base of 2 units and a height of 3 units in units squared?
 4	A right triangle has one non-hypotenuse side length of 3 inches and the hypotenuse measures 5 inches. What is the length of the other non-hypotenuse side in inches?
 1	Skylar lives on a farm, where his dad keeps a circular corn maze. The corn maze has a diameter of 2 kilometres. What is the maze's radius in kilometers?
